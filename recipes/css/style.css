@@ -1,0 +1,35 @@
+body { 
+    background-color: rgb(245, 245, 245);
+}
+
+h1 {
+    color: #000000;
+    background-color: #39962d;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    width: 600px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.text.sub-headers {
+    background-color: #39962d;
+    font-weight: 600;
+    font-size: 28px;
+    text-align: center;
+}
+
+.text { 
+    color: #000000;
+    text-align: left;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
